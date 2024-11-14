@@ -1,4 +1,4 @@
-# Mi Proyecto Django
+# Proyeto para conexión de p´lataformas
 
 Este es un proyecto desarrollado con Django, un framework web de Python. Si vienes de Flask, encontrarás algunas similitudes y diferencias interesantes.
 
